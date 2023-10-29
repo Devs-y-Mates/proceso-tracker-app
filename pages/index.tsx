@@ -67,7 +67,7 @@ export const Home = (): JSX.Element => (
       </a>
     </footer>
 
-    <style jsx>{`
+    <style>{`
       .container {
         min-height: 100vh;
         padding: 0 0.5rem;
@@ -194,7 +194,7 @@ export const Home = (): JSX.Element => (
       }
     `}</style>
 
-    <style jsx global>{`
+    <style>{`
       html,
       body {
         padding: 0;
